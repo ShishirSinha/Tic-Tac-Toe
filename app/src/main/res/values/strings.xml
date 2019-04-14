@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi App</string>
+    <string name="player1_s_turn">Player1\'s turn</string>
+    <string name="play_again">Play Again!</string>
+    <string name="player2_turn">Player2\'s turn</string>
+    <string name="player1_won">Player1 won !!!</string>
+    <string name="player2_won">Player2 won !!!</string>
+    <string name="match_draw">It\'s a DRAW</string>
+</resources>
